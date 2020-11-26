@@ -1,0 +1,6 @@
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\OOPro\LAB\4\MVC-poker\MVC-Models\bin\Debug\MVC-Models.dll
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\OOPro\LAB\4\MVC-poker\MVC-Models\bin\Debug\MVC-Models.pdb
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\OOPro\LAB\4\MVC-poker\MVC-Models\obj\Debug\MVC-Models.csprojAssemblyReference.cache
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\OOPro\LAB\4\MVC-poker\MVC-Models\obj\Debug\MVC-Models.csproj.CoreCompileInputs.cache
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\OOPro\LAB\4\MVC-poker\MVC-Models\obj\Debug\MVC-Models.dll
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\OOPro\LAB\4\MVC-poker\MVC-Models\obj\Debug\MVC-Models.pdb

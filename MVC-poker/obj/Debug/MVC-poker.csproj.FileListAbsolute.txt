@@ -1,0 +1,16 @@
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\OOPro\LAB\4\MVC-poker\MVC-poker\obj\Debug\MVC-poker.csprojAssemblyReference.cache
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\OOPro\LAB\4\MVC-poker\MVC-poker\obj\Debug\MVC_poker.Form1.resources
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\OOPro\LAB\4\MVC-poker\MVC-poker\obj\Debug\MVC_poker.Properties.Resources.resources
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\OOPro\LAB\4\MVC-poker\MVC-poker\obj\Debug\MVC-poker.csproj.GenerateResource.cache
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\OOPro\LAB\4\MVC-poker\MVC-poker\obj\Debug\MVC-poker.csproj.CoreCompileInputs.cache
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\OOPro\LAB\4\MVC-poker\MVC-poker\bin\Debug\MVC-poker.exe.config
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\OOPro\LAB\4\MVC-poker\MVC-poker\bin\Debug\MVC-poker.exe
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\OOPro\LAB\4\MVC-poker\MVC-poker\bin\Debug\MVC-poker.pdb
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\OOPro\LAB\4\MVC-poker\MVC-poker\bin\Debug\MVC-Models.dll
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\OOPro\LAB\4\MVC-poker\MVC-poker\bin\Debug\MVCControllers.dll
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\OOPro\LAB\4\MVC-poker\MVC-poker\bin\Debug\MVC-Models.pdb
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\OOPro\LAB\4\MVC-poker\MVC-poker\bin\Debug\MVCControllers.pdb
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\OOPro\LAB\4\MVC-poker\MVC-poker\obj\Debug\MVC-poker.csproj.CopyComplete
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\OOPro\LAB\4\MVC-poker\MVC-poker\obj\Debug\MVC-poker.exe
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\OOPro\LAB\4\MVC-poker\MVC-poker\obj\Debug\MVC-poker.pdb
+D:\NE BRISATI 11.10.2018\3. godina ELFAK\OOPro\LAB\4\MVC-poker\MVC-poker\obj\Debug\MVC_poker.FormKarte.resources

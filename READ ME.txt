@@ -1,0 +1,7 @@
+Basic poker game for one player. 
+This mini-project was focused on using MVC pattern (Model View Contoller).
+There are 3 type of deck. 
+1. The standard one with 52 cards
+2. The French with  with 32 cards. (https://en.wikipedia.org/wiki/French-suited_playing_cards)
+3. The custome one
+There can be found 2 types of Poker: Standard and Texas hold’em
